@@ -10,15 +10,17 @@ public class MainClass {
 
 	public static void main(String[] args)throws Exception {
 		
-		// input(ют╥б)	- console
+		System.out.println("Л┬≤Л═∙М∙≤Л≤─Л²▄!!!");
+		
+		// input(О©╫т╥О©╫)	- console
 		Scanner sc = new Scanner(System.in);
 		
-		// boolean бЭ╟М
+		// boolean О©╫О©╫О©╫О©╫
 		/*
-		boolean b;	// ют╥бгя ╣╔юлем╦╕ ╨╦╟Эгр ╨╞╪Ж
-		System.out.print("b = ");    // ют╥бгр ╣╔юлем╦╕ ╦М╫ц
+		boolean b;	// О©╫т╥О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫м╦О©╫ О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫
+		System.out.print("b = ");    // О©╫т╥О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫м╦О©╫ О©╫О©╫О©╫
 		b = sc.nextBoolean();
-		System.out.println("b:" + b);	// ют╥бгя ╟А╟З цБ╥б
+		System.out.println("b:" + b);	// О©╫т╥О©╫О©╫О©╫ О©╫О©╫О©╫ О©╫О©╫О©╫
 		 */
 		
 		
